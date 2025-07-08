@@ -1,7 +1,7 @@
 # SHOWROOM
  # Showrooms easy to generate from data of a construction drawing or dimensional sketch - uses three.js 
  
-
+License identical to three.js
 
 See also https://discourse.threejs.org/t/showrooms-easy-to-generate-from-data-of-a-construction-drawing-or-dimensional-sketch/19994
 
